@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PeepoCarScene.unity
     guid: e398ae2a0372c8c499b0274ceeb761ed
+  - enabled: 1
+    path: Assets/Scenes/AlienScene.unity
+    guid: 1731bf62274dc7f4c87261da1eec5f6c
   m_configObjects: {}
